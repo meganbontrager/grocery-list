@@ -17,15 +17,7 @@ library(googlesheets4)
 # unit: what unit of measurement (this is set up to be consistent within an ingredient)
 # notes: shopping notes (not used currently)
 
-# Can edit in google doc and replace static versions
-# master_list = read_sheet("https://docs.google.com/spreadsheets/d/1ZxSRyMcX69YVGqNotCGcVd-i1d95lYzsjUkj-IOX6ZI/edit?skip_itp2_check=true#gid=0", sheet = "master list")
-# write_csv(master_list, "master_list.csv")
-# pantry_assumptions = read_sheet("https://docs.google.com/spreadsheets/d/1ZxSRyMcX69YVGqNotCGcVd-i1d95lYzsjUkj-IOX6ZI/edit?skip_itp2_check=true#gid=0", sheet = "pantry assumptions")
-# write_csv(pantry_assumptions, "pantry_assumptions.csv")
-
 master_list = read_csv("master_list.csv")
-
-pantry_assumptions = read_csv("pantry_assumptions.csv")
 
 # Create a small table of recipe names and sources
 recipe_names = master_list %>% 
@@ -46,7 +38,7 @@ ui <- fluidPage(
         choices  = recipe_names$meal,
         multiple = TRUE
       ),
-      tags$a(href="https://docs.google.com/spreadsheets/d/1ZxSRyMcX69YVGqNotCGcVd-i1d95lYzsjUkj-IOX6ZI/edit#gid=85289927", "Pantry assumptions")
+      tags$a(href="https://github.com/meganbontrager/grocery-list", "edit on github")
     ),
     mainPanel(
     tableOutput(outputId = "recipe_list"),
@@ -74,7 +66,7 @@ server <- function(input, output, session) {
 
   })
   recipe_list <- eventReactive(input$masterclass, {
-    recipes %>% 
+    recipe_names %>% 
       filter(meal %in% input$masterclass) %>% 
       select(meal, source) %>% 
       distinct()

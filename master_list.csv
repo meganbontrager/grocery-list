@@ -8,7 +8,7 @@ basics,basics,NA,dairy,cheddar,1,for the week,NA
 basics,basics,NA,dairy,salted butter,1,for the week,NA
 basics,basics,NA,dairy,unsalted butter,1,for the week,NA
 basics,basics,NA,dairy,yogurt,1,for the week,NA
-dinner,baked orzo puttanesca,otk 114,west pantry,capers,2,tbsp,NA
+dinner,baked orzo puttanesca,otk 114,east pantry,capers,2,tbsp,NA
 dinner,baked orzo puttanesca,otk 114,produce,basil,5,g,NA
 dinner,baked orzo puttanesca,otk 114,produce,garlic,6,cloves,NA
 dinner,baked orzo puttanesca,otk 114,west pantry,preserved lemon,1,items,NA
@@ -18,8 +18,8 @@ dinner,baked orzo puttanesca,otk 114,dairy,parmesan,40,g,NA
 dinner,baked orzo puttanesca,otk 114,east pantry,kalamata olives,70,g,NA
 dinner,baked orzo puttanesca,otk 114,produce,onions,150,g,1 medium
 dinner,baked orzo puttanesca,otk 114,east pantry,orzo,250,g,NA
-dinner,baked orzo puttanesca,otk 114,east pantry,canned tuna,280,g,NA
-dinner,baked orzo puttanesca,otk 114,west pantry,canned tomatoes,400,g,NA
+dinner,baked orzo puttanesca,otk 114,west pantry,canned tuna,280,g,NA
+dinner,baked orzo puttanesca,otk 114,east pantry,canned tomatoes,400,g,NA
 dinner,barley risotto with marinated feta,jerusalem 109,produce,celery,2,stalks,NA
 dinner,barley risotto with marinated feta,jerusalem 109,produce,lemons,1,items,NA
 dinner,barley risotto with marinated feta,jerusalem 109,produce,fresh oregano,3,sprigs,NA
@@ -94,7 +94,7 @@ dinner,confit tandoori chickpeas,otk 105,east pantry,tomato paste,15,g,NA
 dinner,confit tandoori chickpeas,otk 105,produce,cilantro,30,g,NA
 dinner,confit tandoori chickpeas,otk 105,dairy,greek yogurt,180,g,NA
 dinner,confit tandoori chickpeas,otk 105,east pantry,cherry tomatoes--can be canned,400,g,NA
-dinner,confit tandoori chickpeas,otk 105,west pantry,canned chickpeas,800,g,NA
+dinner,confit tandoori chickpeas,otk 105,east pantry,canned chickpeas,800,g,NA
 dinner,cream of tomato soup with buttery onions and orecciette,otk 169,produce,garlic,2,cloves,NA
 dinner,cream of tomato soup with buttery onions and orecciette,otk 169,produce,basil,10,g,NA
 dinner,cream of tomato soup with buttery onions and orecciette,otk 169,dairy,cream,30,ml,NA
@@ -113,7 +113,7 @@ dinner,gigli with chickpeas and zaatar,simple 191,west pantry,anchovies,25,g,NA
 dinner,gigli with chickpeas and zaatar,simple 191,produce,baby spinach,50,g,NA
 dinner,gigli with chickpeas and zaatar,simple 191,produce,onions,100,g,1 small
 dinner,gigli with chickpeas and zaatar,simple 191,east pantry,pasta,200,g,gigli
-dinner,gigli with chickpeas and zaatar,simple 191,west pantry,canned chickpeas,880,g,NA
+dinner,gigli with chickpeas and zaatar,simple 191,east pantry,canned chickpeas,880,g,NA
 dinner,green onion and ginger noodles,east 90,produce,green onions,14,items,NA
 dinner,green onion and ginger noodles,east 90,produce,ginger,2,tbsp,NA
 dinner,green onion and ginger noodles,east 90,west pantry,flat wheat noodles,400,g,NA
@@ -135,7 +135,7 @@ dinner,mushroom mapo tofu,east 171,produce,garlic,3,cloves,NA
 dinner,mushroom mapo tofu,east 171,produce,shiitake mushrooms,225,g,NA
 dinner,mushroom mapo tofu,east 171,dairy,firm tofu,400,g,NA
 dinner,mushroom mapo tofu,east 171,produce,leeks,450,g,4 normal
-dinner,one pan orecchiette puttanesca,flavor 139,west pantry,capers,1,tbsp,NA
+dinner,one pan orecchiette puttanesca,flavor 139,east pantry,capers,1,tbsp,NA
 dinner,one pan orecchiette puttanesca,flavor 139,produce,lemons,1,items,NA
 dinner,one pan orecchiette puttanesca,flavor 139,produce,garlic,6,cloves,NA
 dinner,one pan orecchiette puttanesca,flavor 139,east pantry,tomato paste,10,g,NA
@@ -143,7 +143,7 @@ dinner,one pan orecchiette puttanesca,flavor 139,produce,parsley,40,g,NA
 dinner,one pan orecchiette puttanesca,flavor 139,east pantry,pitted green olives,125,g,NA
 dinner,one pan orecchiette puttanesca,flavor 139,east pantry,cherry tomatoes--can be canned,250,g,NA
 dinner,one pan orecchiette puttanesca,flavor 139,east pantry,pasta,250,g,orecchiette
-dinner,one pan orecchiette puttanesca,flavor 139,west pantry,canned chickpeas,425,g,NA
+dinner,one pan orecchiette puttanesca,flavor 139,east pantry,canned chickpeas,425,g,NA
 dinner,oyster mushrooms,flavor 238,produce,garlic,2,cloves,NA
 dinner,oyster mushrooms,flavor 238,dairy,unsalted butter,60,g,NA
 dinner,oyster mushrooms,flavor 238,east pantry,semolina or polenta,100,g,NA
