@@ -14,7 +14,6 @@ dinner,baked orzo puttanesca,otk 114,produce,garlic,6,cloves,NA
 dinner,baked orzo puttanesca,otk 114,west pantry,preserved lemon,1,items,NA
 dinner,baked orzo puttanesca,otk 114,west pantry,anchovies,15,g,NA
 dinner,baked orzo puttanesca,otk 114,east pantry,tomato paste,15,g,NA
-dinner,baked orzo puttanesca,otk 114,dairy,parmesan,40,g,NA
 dinner,baked orzo puttanesca,otk 114,east pantry,kalamata olives,70,g,NA
 dinner,baked orzo puttanesca,otk 114,produce,onions,150,g,1 medium
 dinner,baked orzo puttanesca,otk 114,east pantry,orzo,250,g,NA
@@ -58,7 +57,7 @@ dinner,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,produce,mint,
 dinner,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,dairy,yogurt,200,g,NA
 dinner,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,west pantry,bulgur,250,g,NA
 dinner,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,produce,onions,320,g,2 medium
-dinner,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,east pantry,cherry tomatoes--can be canned,400,g,NA
+dinner,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,east pantry,cherry tomatoes,400,g,NA
 dinner,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,produce,eggplants,500,g,2 small
 dinner,chermoula eggplant with bulgur and yogurt,jerusalem 59,produce,lemons,0.5,items,NA
 dinner,chermoula eggplant with bulgur and yogurt,jerusalem 59,produce,garlic,2,cloves,NA
@@ -74,7 +73,6 @@ dinner,chermoula eggplant with bulgur and yogurt,jerusalem 59,produce,eggplants,
 dinner,chickpeas cacio e pepe,otk 120,produce,jalapenos,1,items,NA
 dinner,chickpeas cacio e pepe,otk 120,produce,garlic,8,cloves,NA
 dinner,chickpeas cacio e pepe,otk 120,produce,parsley,15,g,NA
-dinner,chickpeas cacio e pepe,otk 120,dairy,parmesan,80,g,NA
 dinner,chickpeas cacio e pepe,otk 120,dairy,unsalted butter,100,g,NA
 dinner,chickpeas cacio e pepe,otk 120,produce,baby spinach,250,g,NA
 dinner,chickpeas cacio e pepe,otk 120,west pantry,dried chickpeas,300,g,NA
@@ -93,7 +91,7 @@ dinner,confit tandoori chickpeas,otk 105,produce,mint,15,g,NA
 dinner,confit tandoori chickpeas,otk 105,east pantry,tomato paste,15,g,NA
 dinner,confit tandoori chickpeas,otk 105,produce,cilantro,30,g,NA
 dinner,confit tandoori chickpeas,otk 105,dairy,greek yogurt,180,g,NA
-dinner,confit tandoori chickpeas,otk 105,east pantry,cherry tomatoes--can be canned,400,g,NA
+dinner,confit tandoori chickpeas,otk 105,east pantry,cherry tomatoes,400,g,NA
 dinner,confit tandoori chickpeas,otk 105,east pantry,canned chickpeas,800,g,NA
 dinner,cream of tomato soup with buttery onions and orecciette,otk 169,produce,garlic,2,cloves,NA
 dinner,cream of tomato soup with buttery onions and orecciette,otk 169,produce,basil,10,g,NA
@@ -141,7 +139,7 @@ dinner,one pan orecchiette puttanesca,flavor 139,produce,garlic,6,cloves,NA
 dinner,one pan orecchiette puttanesca,flavor 139,east pantry,tomato paste,10,g,NA
 dinner,one pan orecchiette puttanesca,flavor 139,produce,parsley,40,g,NA
 dinner,one pan orecchiette puttanesca,flavor 139,east pantry,pitted green olives,125,g,NA
-dinner,one pan orecchiette puttanesca,flavor 139,east pantry,cherry tomatoes--can be canned,250,g,NA
+dinner,one pan orecchiette puttanesca,flavor 139,east pantry,cherry tomatoes,250,g,NA
 dinner,one pan orecchiette puttanesca,flavor 139,east pantry,pasta,250,g,orecchiette
 dinner,one pan orecchiette puttanesca,flavor 139,east pantry,canned chickpeas,425,g,NA
 dinner,oyster mushrooms,flavor 238,produce,garlic,2,cloves,NA
@@ -163,7 +161,7 @@ dinner,puy lentil and eggplant stew,simple 159,NA,dry white wine,80,ml,NA
 dinner,puy lentil and eggplant stew,simple 159,dairy,creme fraiche,100,g,NA
 dinner,puy lentil and eggplant stew,simple 159,produce,red onion,160,g,1 medium
 dinner,puy lentil and eggplant stew,simple 159,west pantry,puy lentils,180,g,NA
-dinner,puy lentil and eggplant stew,simple 159,east pantry,cherry tomatoes--can be canned,200,g,NA
+dinner,puy lentil and eggplant stew,simple 159,east pantry,cherry tomatoes,200,g,NA
 dinner,puy lentil and eggplant stew,simple 159,produce,eggplants,420,g,2 small
 dinner,rajma chawal,vij's 114,produce,ginger,2,tbsp,NA
 dinner,rajma chawal,vij's 114,produce,garlic,6,cloves,NA
@@ -184,7 +182,6 @@ dinner,roasted butternut squash with lentils and dolcelatte,simple 119,produce,r
 dinner,roasted butternut squash with lentils and dolcelatte,simple 119,produce,butternut or delicata squash,950,g,NA
 dinner,"spaghetti with swiss chard, pine nuts, raisins and chiles",six seasons 301,produce,swiss chard,1,bunch,NA
 dinner,"spaghetti with swiss chard, pine nuts, raisins and chiles",six seasons 301,produce,garlic,2,cloves,NA
-dinner,"spaghetti with swiss chard, pine nuts, raisins and chiles",six seasons 301,dairy,parmesan,50,g,NA
 dinner,"spaghetti with swiss chard, pine nuts, raisins and chiles",six seasons 301,produce,pine nuts,60,g,NA
 dinner,"spaghetti with swiss chard, pine nuts, raisins and chiles",six seasons 301,dairy,unsalted butter,60,g,NA
 dinner,"spaghetti with swiss chard, pine nuts, raisins and chiles",six seasons 301,east pantry,golden raisins,75,g,NA
@@ -197,45 +194,52 @@ dinner,udon noodles with red cabbage and cauliflower,east 88,produce,cauliflower
 dinner,udon noodles with red cabbage and cauliflower,east 88,west pantry,udon noodles--ready to fry,600,g,NA
 dinner,zaatar cacio e pepe,flavor 104,dairy,pecorino romano,30,g,NA
 dinner,zaatar cacio e pepe,flavor 104,dairy,unsalted butter,50,g,NA
-dinner,zaatar cacio e pepe,flavor 104,dairy,parmesan,130,g,NA
 dinner,zaatar cacio e pepe,flavor 104,east pantry,bucatini,400,g,NA
 dinner,zucchini and ciabatta frittata,simple 9,dairy,eggs,6,items,NA
 dinner,zucchini and ciabatta frittata,simple 9,produce,garlic,2,cloves,NA
 dinner,zucchini and ciabatta frittata,simple 9,produce,basil,25,g,NA
-dinner,zucchini and ciabatta frittata,simple 9,dairy,parmesan,80,g,NA
 dinner,zucchini and ciabatta frittata,simple 9,dairy,cream,200,ml,NA
 dinner,zucchini and ciabatta frittata,simple 9,dairy,milk,200,ml,NA
 dinner,zucchini and ciabatta frittata,simple 9,produce,zucchini,430,g,2 medium
 dinner,zucchini and ciabatta frittata,simple 9,east pantry,ciabatta,500,g,NA
-end,dessert: apple and olive oil cake with maple frosting,sweet 132,dairy,eggs,4,items,NA
-end,dessert: apple and olive oil cake with maple frosting,sweet 132,produce,lemons,1,items,NA
-end,dessert: apple and olive oil cake with maple frosting,sweet 132,west pantry,maple syrup,85,g,NA
-end,dessert: apple and olive oil cake with maple frosting,sweet 132,east pantry,golden raisins,100,g,NA
-end,dessert: apple and olive oil cake with maple frosting,sweet 132,dairy,unsalted butter,100,g,NA
-end,dessert: apple and olive oil cake with maple frosting,sweet 132,dairy,cream cheese,225,g,NA
-end,dessert: apple and olive oil cake with maple frosting,sweet 132,produce,tart apples,900,g,NA
-end,dessert: chocolate chip and pecan cookies,sweet 26,dairy,eggs,2,items,NA
-end,dessert: chocolate chip and pecan cookies,sweet 26,produce,pecans,120,g,NA
-end,dessert: chocolate chip and pecan cookies,sweet 26,dairy,unsalted butter,250,g,NA
-end,dessert: chocolate chip and pecan cookies,sweet 26,east pantry,chocolate chunks,260,g,NA
-end,dessert: mutabbaq,jerusalem 262,produce,lemons,1,items,NA
-end,dessert: mutabbaq,jerusalem 262,frozen,filo,14,sheets,NA
-end,dessert: mutabbaq,jerusalem 262,dairy,unsalted butter,130,g,NA
-end,dessert: mutabbaq,jerusalem 262,dairy,goat cheese,250,g,NA
-end,dessert: mutabbaq,jerusalem 262,dairy,ricotta,500,g,NA
-end,dessert: spice cake,sweet 186,dairy,eggs,3,items,NA
-end,dessert: spice cake,sweet 186,produce,orange,1,items,NA
-end,dessert: spice cake,sweet 186,dairy,sour cream,120,g,NA
-end,dessert: spice cake,sweet 186,dairy,unsalted butter,180,g,NA
-end,dessert: upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,dairy,eggs,3,items,NA
-end,dessert: upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,produce,lemons,4,items,NA
-end,dessert: upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,dairy,milk,60,ml,NA
-end,dessert: upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,dairy,creme fraiche,240,g,optional
-end,dessert: upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,west pantry,maple syrup,280,mL,NA
-end,dessert: upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,dairy,unsalted butter,340,g,NA
-end,dessert: vineyard cake,sweet 134,dairy,eggs,4,items,NA
-end,dessert: vineyard cake,sweet 134,produce,lemons,2,items,NA
-end,dessert: vineyard cake,sweet 134,produce,orange,1,items,NA
-end,dessert: vineyard cake,sweet 134,produce,grapes,200,g,NA
-end,dessert: vineyard cake,sweet 134,dairy,unsalted butter,240,g,NA
-end,dessert: vineyard cake,sweet 134,NA,muscat wine,450,ml,NA
+dinner,harissa and white bean chili,nyt,produce,red onion,1,items,NA
+dinner,harissa and white bean chili,nyt,produce,bell peppers,2,items,NA
+dinner,harissa and white bean chili,nyt,produce,jalapenos,2,items,NA
+dinner,harissa and white bean chili,nyt,east pantry,cherry tomatoes,300,g,NA
+dinner,harissa and white bean chili,nyt,east pantry,white beans,30,oz,NA
+dinner,harissa and white bean chili,nyt,produce,baby spinach,3,cups,NA
+dinner,harissa and white bean chili,nyt,produce,limes,2,items,NA
+dinner,harissa and white bean chili,nyt,produce,avocado,1,items,NA
+dinner,harissa and white bean chili,nyt,produce,cilantro,10,g,NA
+dessert,apple and olive oil cake with maple frosting,sweet 132,dairy,eggs,4,items,NA
+dessert,apple and olive oil cake with maple frosting,sweet 132,produce,lemons,1,items,NA
+dessert,apple and olive oil cake with maple frosting,sweet 132,west pantry,maple syrup,85,g,NA
+dessert,apple and olive oil cake with maple frosting,sweet 132,east pantry,golden raisins,100,g,NA
+dessert,apple and olive oil cake with maple frosting,sweet 132,dairy,unsalted butter,100,g,NA
+dessert,apple and olive oil cake with maple frosting,sweet 132,dairy,cream cheese,225,g,NA
+dessert,apple and olive oil cake with maple frosting,sweet 132,produce,tart apples,900,g,NA
+dessert,chocolate chip and pecan cookies,sweet 26,dairy,eggs,2,items,NA
+dessert,chocolate chip and pecan cookies,sweet 26,produce,pecans,120,g,NA
+dessert,chocolate chip and pecan cookies,sweet 26,dairy,unsalted butter,250,g,NA
+dessert,chocolate chip and pecan cookies,sweet 26,east pantry,chocolate chunks,260,g,NA
+dessert,mutabbaq,jerusalem 262,produce,lemons,1,items,NA
+dessert,mutabbaq,jerusalem 262,frozen,filo,14,sheets,NA
+dessert,mutabbaq,jerusalem 262,dairy,unsalted butter,130,g,NA
+dessert,mutabbaq,jerusalem 262,dairy,goat cheese,250,g,NA
+dessert,mutabbaq,jerusalem 262,dairy,ricotta,500,g,NA
+dessert,spice cake,sweet 186,dairy,eggs,3,items,NA
+dessert,spice cake,sweet 186,produce,orange,1,items,NA
+dessert,spice cake,sweet 186,dairy,sour cream,120,g,NA
+dessert,spice cake,sweet 186,dairy,unsalted butter,180,g,NA
+dessert,upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,dairy,eggs,3,items,NA
+dessert,upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,produce,lemons,4,items,NA
+dessert,upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,dairy,milk,60,ml,NA
+dessert,upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,dairy,creme fraiche,240,g,optional
+dessert,upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,west pantry,maple syrup,280,mL,NA
+dessert,upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,dairy,unsalted butter,340,g,NA
+dessert,vineyard cake,sweet 134,dairy,eggs,4,items,NA
+dessert,vineyard cake,sweet 134,produce,lemons,2,items,NA
+dessert,vineyard cake,sweet 134,produce,orange,1,items,NA
+dessert,vineyard cake,sweet 134,produce,grapes,200,g,NA
+dessert,vineyard cake,sweet 134,dairy,unsalted butter,240,g,NA
+dessert,vineyard cake,sweet 134,NA,muscat wine,450,ml,NA
