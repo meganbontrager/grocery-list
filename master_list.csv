@@ -7,7 +7,9 @@ basics,basics,NA,dairy,milk,1,for the week,NA
 basics,basics,NA,dairy,cheddar,1,for the week,NA
 basics,basics,NA,dairy,salted butter,1,for the week,NA
 basics,basics,NA,dairy,unsalted butter,1,for the week,NA
-basics,basics,NA,dairy,yogurt,1,for the week,NA
+basics,basics,NA,dairy,yogurt,2,for the week,NA
+basics,basics,NA,produce,bananas,1,for the week,NA
+basics,basics,NA,produce,frozen fruit,1,for the week,NA
 dinner,baked orzo puttanesca,otk 114,east pantry,capers,2,tbsp,NA
 dinner,baked orzo puttanesca,otk 114,produce,basil,5,g,NA
 dinner,baked orzo puttanesca,otk 114,produce,garlic,6,cloves,NA
@@ -211,6 +213,11 @@ dinner,harissa and white bean chili,nyt,produce,baby spinach,3,cups,NA
 dinner,harissa and white bean chili,nyt,produce,limes,2,items,NA
 dinner,harissa and white bean chili,nyt,produce,avocado,1,items,NA
 dinner,harissa and white bean chili,nyt,produce,cilantro,10,g,NA
+dinner,roasted white bean and tomato pasta,nyt,produce,shallot,1,item,NA
+dinner,roasted white bean and tomato pasta,nyt,produce,garlic,5,cloves,NA
+dinner,roasted white bean and tomato pasta,nyt,east pantry,cherry tomatoes,450,g,NA
+dinner,roasted white bean and tomato pasta,nyt,east pantry,pasta,450,g,orecchiette
+dinner,roasted white bean and tomato pasta,nyt,east pantry,white beans,15,oz,NA
 dessert,apple and olive oil cake with maple frosting,sweet 132,dairy,eggs,4,items,NA
 dessert,apple and olive oil cake with maple frosting,sweet 132,produce,lemons,1,items,NA
 dessert,apple and olive oil cake with maple frosting,sweet 132,west pantry,maple syrup,85,g,NA
