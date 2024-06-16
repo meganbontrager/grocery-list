@@ -1,252 +1,435 @@
-type,meal,source,section,ingredient,amount,units,notes
-basics,basics,NA,dairy,bread,1,for the week,NA
-basics,basics,NA,dairy,brie,1,for the week,NA
-basics,basics,NA,dairy,eggs,12,for the week,NA
-basics,basics,NA,dairy,oat milk,1,for the week,NA
-basics,basics,NA,dairy,milk,1,for the week,NA
-basics,basics,NA,dairy,cheddar,1,for the week,NA
-basics,basics,NA,dairy,salted butter,1,for the week,NA
-basics,basics,NA,dairy,unsalted butter,1,for the week,NA
-basics,basics,NA,dairy,yogurt,2,for the week,NA
-basics,basics,NA,produce,bananas,1,for the week,NA
-basics,basics,NA,produce,frozen fruit,1,for the week,NA
-dinner,baked orzo puttanesca,otk 114,east pantry,capers,2,tbsp,NA
-dinner,baked orzo puttanesca,otk 114,produce,basil,5,g,NA
-dinner,baked orzo puttanesca,otk 114,produce,garlic,6,cloves,NA
-dinner,baked orzo puttanesca,otk 114,west pantry,preserved lemon,1,items,NA
-dinner,baked orzo puttanesca,otk 114,west pantry,anchovies,15,g,NA
-dinner,baked orzo puttanesca,otk 114,east pantry,tomato paste,15,g,NA
-dinner,baked orzo puttanesca,otk 114,east pantry,kalamata olives,70,g,NA
-dinner,baked orzo puttanesca,otk 114,produce,onions,150,g,1 medium
-dinner,baked orzo puttanesca,otk 114,east pantry,orzo,250,g,NA
-dinner,baked orzo puttanesca,otk 114,west pantry,canned tuna,280,g,NA
-dinner,baked orzo puttanesca,otk 114,east pantry,canned tomatoes,400,g,NA
-dinner,barley risotto with marinated feta,jerusalem 109,produce,celery,2,stalks,NA
-dinner,barley risotto with marinated feta,jerusalem 109,produce,lemons,1,items,NA
-dinner,barley risotto with marinated feta,jerusalem 109,produce,fresh oregano,3,sprigs,NA
-dinner,barley risotto with marinated feta,jerusalem 109,produce,garlic,4,cloves,NA
-dinner,barley risotto with marinated feta,jerusalem 109,produce,fresh thyme,5,g,NA
-dinner,barley risotto with marinated feta,jerusalem 109,produce,shallots,2,items,NA
-dinner,barley risotto with marinated feta,jerusalem 109,dairy,unsalted butter,30,g,NA
-dinner,barley risotto with marinated feta,jerusalem 109,west pantry,pearl barley,200,g,NA
-dinner,barley risotto with marinated feta,jerusalem 109,dairy,feta,300,g,NA
-dinner,barley risotto with marinated feta,jerusalem 109,east pantry,passata,300,ml,NA
-dinner,barley risotto with marinated feta,jerusalem 109,east pantry,canned tomatoes,400,g,NA
-dinner,"bkeila, potato, and butter bean stew",flavor 75,produce,jalapenos,1,items,NA
-dinner,"bkeila, potato, and butter bean stew",flavor 75,produce,lemons,2,items,NA
-dinner,"bkeila, potato, and butter bean stew",flavor 75,produce,garlic,5,cloves,NA
-dinner,"bkeila, potato, and butter bean stew",flavor 75,produce,parsley,30,g,NA
-dinner,"bkeila, potato, and butter bean stew",flavor 75,produce,cilantro,100,g,NA
-dinner,"bkeila, potato, and butter bean stew",flavor 75,produce,onions,150,g,1 medium
-dinner,"bkeila, potato, and butter bean stew",flavor 75,produce,potatoes,500,g,NA
-dinner,"bkeila, potato, and butter bean stew",flavor 75,produce,spinach,600,g,NA
-dinner,"bkeila, potato, and butter bean stew",flavor 75,east pantry,butter beans canned,700,g,NA
-dinner,braised eggs with leek and zaatar,simple 6,dairy,eggs,6,items,NA
-dinner,braised eggs with leek and zaatar,simple 6,west pantry,preserved lemon,0.5,items,NA
-dinner,braised eggs with leek and zaatar,simple 6,dairy,unsalted butter,40,g,NA
-dinner,braised eggs with leek and zaatar,simple 6,dairy,feta,90,g,NA
-dinner,braised eggs with leek and zaatar,simple 6,produce,baby spinach,200,g,NA
-dinner,braised eggs with leek and zaatar,simple 6,produce,leeks,530,g,4 normal
-dinner,bulgur with mushrooms and feta,simple 164,produce,fresh thyme,5,g,NA
-dinner,bulgur with mushrooms and feta,simple 164,produce,dill,10,g,NA
-dinner,bulgur with mushrooms and feta,simple 164,dairy,feta,60,g,NA
-dinner,bulgur with mushrooms and feta,simple 164,west pantry,bulgur,150,g,NA
-dinner,bulgur with mushrooms and feta,simple 164,produce,onions,170,g,1 large
-dinner,bulgur with mushrooms and feta,simple 164,produce,mixed mushrooms,500,g,NA
-dinner,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,produce,garlic,3,cloves,NA
-dinner,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,west pantry,preserved lemon,1,items,NA
-dinner,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,produce,mint,10,g,NA
-dinner,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,dairy,yogurt,200,g,NA
-dinner,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,west pantry,bulgur,250,g,NA
-dinner,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,produce,onions,320,g,2 medium
-dinner,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,east pantry,cherry tomatoes,400,g,NA
-dinner,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,produce,eggplants,500,g,2 small
-dinner,chermoula eggplant with bulgur and yogurt,jerusalem 59,produce,lemons,0.5,items,NA
-dinner,chermoula eggplant with bulgur and yogurt,jerusalem 59,produce,garlic,2,cloves,NA
-dinner,chermoula eggplant with bulgur and yogurt,jerusalem 59,west pantry,preserved lemon,1,items,NA
-dinner,chermoula eggplant with bulgur and yogurt,jerusalem 59,produce,cilantro,10,g,NA
-dinner,chermoula eggplant with bulgur and yogurt,jerusalem 59,produce,mint,10,g,NA
-dinner,chermoula eggplant with bulgur and yogurt,jerusalem 59,produce,sliced almonds,30,g,NA
-dinner,chermoula eggplant with bulgur and yogurt,jerusalem 59,east pantry,golden raisins,50,g,NA
-dinner,chermoula eggplant with bulgur and yogurt,jerusalem 59,east pantry,pitted green olives,50,g,NA
-dinner,chermoula eggplant with bulgur and yogurt,jerusalem 59,dairy,greek yogurt,120,g,NA
-dinner,chermoula eggplant with bulgur and yogurt,jerusalem 59,west pantry,bulgur,150,g,NA
-dinner,chermoula eggplant with bulgur and yogurt,jerusalem 59,produce,eggplants,600,g,2 medium
-dinner,chickpeas cacio e pepe,otk 120,produce,jalapenos,1,items,NA
-dinner,chickpeas cacio e pepe,otk 120,produce,garlic,8,cloves,NA
-dinner,chickpeas cacio e pepe,otk 120,produce,parsley,15,g,NA
-dinner,chickpeas cacio e pepe,otk 120,dairy,unsalted butter,100,g,NA
-dinner,chickpeas cacio e pepe,otk 120,produce,baby spinach,250,g,NA
-dinner,chickpeas cacio e pepe,otk 120,west pantry,dried chickpeas,300,g,NA
-dinner,"conchigle with yogurt, peas, and chile",jerusalem 111,produce,garlic,4,cloves,NA
-dinner,"conchigle with yogurt, peas, and chile",jerusalem 111,produce,basil,40,g,NA
-dinner,"conchigle with yogurt, peas, and chile",jerusalem 111,produce,pine nuts,60,g,NA
-dinner,"conchigle with yogurt, peas, and chile",jerusalem 111,dairy,feta,240,g,NA
-dinner,"conchigle with yogurt, peas, and chile",jerusalem 111,dairy,greek yogurt,500,g,NA
-dinner,"conchigle with yogurt, peas, and chile",jerusalem 111,east pantry,pasta,500,g,conchigle
-dinner,"conchigle with yogurt, peas, and chile",jerusalem 111,produce,peas (fresh or frozen),500,g,NA
-dinner,confit tandoori chickpeas,otk 105,produce,jalapenos,1,items,NA
-dinner,confit tandoori chickpeas,otk 105,produce,limes,2,items,NA
-dinner,confit tandoori chickpeas,otk 105,produce,ginger,5,tbsp,NA
-dinner,confit tandoori chickpeas,otk 105,produce,garlic,11,cloves,NA
-dinner,confit tandoori chickpeas,otk 105,produce,mint,15,g,NA
-dinner,confit tandoori chickpeas,otk 105,east pantry,tomato paste,15,g,NA
-dinner,confit tandoori chickpeas,otk 105,produce,cilantro,30,g,NA
-dinner,confit tandoori chickpeas,otk 105,dairy,greek yogurt,180,g,NA
-dinner,confit tandoori chickpeas,otk 105,east pantry,cherry tomatoes,400,g,NA
-dinner,confit tandoori chickpeas,otk 105,east pantry,canned chickpeas,800,g,NA
-dinner,cream of tomato soup with buttery onions and orecciette,otk 169,produce,garlic,2,cloves,NA
-dinner,cream of tomato soup with buttery onions and orecciette,otk 169,produce,basil,10,g,NA
-dinner,cream of tomato soup with buttery onions and orecciette,otk 169,dairy,cream,30,ml,NA
-dinner,cream of tomato soup with buttery onions and orecciette,otk 169,east pantry,tomato paste,55,g,NA
-dinner,cream of tomato soup with buttery onions and orecciette,otk 169,dairy,unsalted butter,60,g,NA
-dinner,cream of tomato soup with buttery onions and orecciette,otk 169,east pantry,pasta,200,g,orecchiette
-dinner,cream of tomato soup with buttery onions and orecciette,otk 169,produce,onions,540,g,4 medium
-dinner,cream of tomato soup with buttery onions and orecciette,otk 169,east pantry,canned tomatoes,800,g,NA
-dinner,fish and potatoes,NA,produce,potatoes,1000,g,NA
-dinner,fish and potatoes,NA,NA,fish,1,filet,NA
-dinner,gigli with chickpeas and zaatar,simple 191,produce,lemons,1,items,NA
-dinner,gigli with chickpeas and zaatar,simple 191,produce,garlic,2,cloves,NA
-dinner,gigli with chickpeas and zaatar,simple 191,produce,fresh thyme,10,g,NA
-dinner,gigli with chickpeas and zaatar,simple 191,produce,parsley,15,g,NA
-dinner,gigli with chickpeas and zaatar,simple 191,west pantry,anchovies,25,g,NA
-dinner,gigli with chickpeas and zaatar,simple 191,produce,baby spinach,50,g,NA
-dinner,gigli with chickpeas and zaatar,simple 191,produce,onions,100,g,1 small
-dinner,gigli with chickpeas and zaatar,simple 191,east pantry,pasta,200,g,gigli
-dinner,gigli with chickpeas and zaatar,simple 191,east pantry,canned chickpeas,880,g,NA
-dinner,green onion and ginger noodles,east 90,produce,green onions,14,items,NA
-dinner,green onion and ginger noodles,east 90,produce,ginger,2,tbsp,NA
-dinner,green onion and ginger noodles,east 90,west pantry,flat wheat noodles,400,g,NA
-dinner,kimchi stew,fridge,NA,kimchi,1,L,NA
-dinner,kimchi stew,fridge,produce,green onions,3,items,NA
-dinner,kimchi stew,fridge,NA,soon tofu,1,package,NA
-dinner,kimchi stew,fridge,produce,onions,150,g,1 medium
-dinner,kimchi stew,fridge,produce,daikon,0.3,c,NA
-dinner,middle eastern mac and cheese,otk 140,dairy,unsalted butter,65,g,NA
-dinner,middle eastern mac and cheese,otk 140,dairy,cream,75,ml,NA
-dinner,middle eastern mac and cheese,otk 140,dairy,cheddar,150,g,NA
-dinner,middle eastern mac and cheese,otk 140,produce,onions,150,g,1 medium
-dinner,middle eastern mac and cheese,otk 140,dairy,feta,180,g,NA
-dinner,middle eastern mac and cheese,otk 140,east pantry,pasta,300,g,any kind
-dinner,middle eastern mac and cheese,otk 140,dairy,milk,650,ml,NA
-dinner,mushroom mapo tofu,east 171,produce,ginger,1,tbsp,NA
-dinner,mushroom mapo tofu,east 171,produce,green onions,1,items,NA
-dinner,mushroom mapo tofu,east 171,produce,garlic,3,cloves,NA
-dinner,mushroom mapo tofu,east 171,produce,shiitake mushrooms,225,g,NA
-dinner,mushroom mapo tofu,east 171,dairy,firm tofu,400,g,NA
-dinner,mushroom mapo tofu,east 171,produce,leeks,450,g,4 normal
-dinner,one pan orecchiette puttanesca,flavor 139,east pantry,capers,1,tbsp,NA
-dinner,one pan orecchiette puttanesca,flavor 139,produce,lemons,1,items,NA
-dinner,one pan orecchiette puttanesca,flavor 139,produce,garlic,6,cloves,NA
-dinner,one pan orecchiette puttanesca,flavor 139,east pantry,tomato paste,10,g,NA
-dinner,one pan orecchiette puttanesca,flavor 139,produce,parsley,40,g,NA
-dinner,one pan orecchiette puttanesca,flavor 139,east pantry,pitted green olives,125,g,NA
-dinner,one pan orecchiette puttanesca,flavor 139,east pantry,cherry tomatoes,250,g,NA
-dinner,one pan orecchiette puttanesca,flavor 139,east pantry,pasta,250,g,orecchiette
-dinner,one pan orecchiette puttanesca,flavor 139,east pantry,canned chickpeas,425,g,NA
-dinner,oyster mushrooms,flavor 238,produce,garlic,2,cloves,NA
-dinner,oyster mushrooms,flavor 238,dairy,unsalted butter,60,g,NA
-dinner,oyster mushrooms,flavor 238,east pantry,semolina or polenta,100,g,NA
-dinner,oyster mushrooms,flavor 238,dairy,milk,500,ml,NA
-dinner,oyster mushrooms,flavor 238,produce,oyster mushrooms,680,g,NA
-dinner,pasta alla norma,simple 184,produce,fresh oregano,5,sprigs,NA
-dinner,pasta alla norma,simple 184,produce,garlic,5,cloves,NA
-dinner,pasta alla norma,simple 184,produce,basil,20,g,NA
-dinner,pasta alla norma,simple 184,dairy,pecorino romano,45,g,NA
-dinner,pasta alla norma,simple 184,east pantry,pasta,300,g,any kind
-dinner,pasta alla norma,simple 184,east pantry,canned tomatoes,800,g,NA
-dinner,pasta alla norma,simple 184,produce,eggplants,900,g,3 medium
-dinner,puy lentil and eggplant stew,simple 159,produce,fresh oregano,1,sprigs,NA
-dinner,puy lentil and eggplant stew,simple 159,produce,garlic,3,cloves,NA
-dinner,puy lentil and eggplant stew,simple 159,produce,fresh thyme,5,g,NA
-dinner,puy lentil and eggplant stew,simple 159,NA,dry white wine,80,ml,NA
-dinner,puy lentil and eggplant stew,simple 159,dairy,creme fraiche,100,g,NA
-dinner,puy lentil and eggplant stew,simple 159,produce,red onion,160,g,1 medium
-dinner,puy lentil and eggplant stew,simple 159,west pantry,puy lentils,180,g,NA
-dinner,puy lentil and eggplant stew,simple 159,east pantry,cherry tomatoes,200,g,NA
-dinner,puy lentil and eggplant stew,simple 159,produce,eggplants,420,g,2 small
-dinner,rajma chawal,vij's 114,produce,ginger,2,tbsp,NA
-dinner,rajma chawal,vij's 114,produce,garlic,6,cloves,NA
-dinner,rajma chawal,vij's 114,east pantry,kidney beans,42,oz,NA
-dinner,rajma chawal,vij's 114,dairy,yogurt,125,g,NA
-dinner,rajma chawal,vij's 114,produce,onions,170,g,1 large
-dinner,rajma chawal,vij's 114,west pantry,basmati rice,400,g,NA
-dinner,rajma chawal,vij's 114,east pantry,canned tomatoes,400,g,NA
-dinner,roasted butternut squash with lentils and dolcelatte,simple 119,produce,garlic,1,cloves,NA
-dinner,roasted butternut squash with lentils and dolcelatte,simple 119,produce,lemons,1,items,NA
-dinner,roasted butternut squash with lentils and dolcelatte,simple 119,produce,mint,5,g,NA
-dinner,roasted butternut squash with lentils and dolcelatte,simple 119,produce,parsley,5,g,NA
-dinner,roasted butternut squash with lentils and dolcelatte,simple 119,produce,sage,10,g,NA
-dinner,roasted butternut squash with lentils and dolcelatte,simple 119,produce,tarragon,10,g,NA
-dinner,roasted butternut squash with lentils and dolcelatte,simple 119,dairy,gorgonzola or dolcelatte,100,g,NA
-dinner,roasted butternut squash with lentils and dolcelatte,simple 119,west pantry,puy lentils,100,g,NA
-dinner,roasted butternut squash with lentils and dolcelatte,simple 119,produce,red onion,320,g,2 medium
-dinner,roasted butternut squash with lentils and dolcelatte,simple 119,produce,butternut or delicata squash,950,g,NA
-dinner,"spaghetti with swiss chard, pine nuts, raisins and chiles",six seasons 301,produce,swiss chard,1,bunch,NA
-dinner,"spaghetti with swiss chard, pine nuts, raisins and chiles",six seasons 301,produce,garlic,2,cloves,NA
-dinner,"spaghetti with swiss chard, pine nuts, raisins and chiles",six seasons 301,produce,pine nuts,60,g,NA
-dinner,"spaghetti with swiss chard, pine nuts, raisins and chiles",six seasons 301,dairy,unsalted butter,60,g,NA
-dinner,"spaghetti with swiss chard, pine nuts, raisins and chiles",six seasons 301,east pantry,golden raisins,75,g,NA
-dinner,"spaghetti with swiss chard, pine nuts, raisins and chiles",six seasons 301,east pantry,pasta,250,g,any kind
-dinner,udon noodles with red cabbage and cauliflower,east 88,produce,red cabbage,0.5,head,NA
-dinner,udon noodles with red cabbage and cauliflower,east 88,produce,green onions,8,items,NA
-dinner,udon noodles with red cabbage and cauliflower,east 88,produce,garlic,2,cloves,NA
-dinner,udon noodles with red cabbage and cauliflower,east 88,produce,limes,2,items,NA
-dinner,udon noodles with red cabbage and cauliflower,east 88,produce,cauliflower,450,g,0.5 head
-dinner,udon noodles with red cabbage and cauliflower,east 88,west pantry,udon noodles--ready to fry,600,g,NA
-dinner,zaatar cacio e pepe,flavor 104,dairy,pecorino romano,30,g,NA
-dinner,zaatar cacio e pepe,flavor 104,dairy,unsalted butter,50,g,NA
-dinner,zaatar cacio e pepe,flavor 104,east pantry,bucatini,400,g,NA
-dinner,zucchini and ciabatta frittata,simple 9,dairy,eggs,6,items,NA
-dinner,zucchini and ciabatta frittata,simple 9,produce,garlic,2,cloves,NA
-dinner,zucchini and ciabatta frittata,simple 9,produce,basil,25,g,NA
-dinner,zucchini and ciabatta frittata,simple 9,dairy,cream,200,ml,NA
-dinner,zucchini and ciabatta frittata,simple 9,dairy,milk,200,ml,NA
-dinner,zucchini and ciabatta frittata,simple 9,produce,zucchini,430,g,2 medium
-dinner,zucchini and ciabatta frittata,simple 9,east pantry,ciabatta,500,g,NA
-dinner,harissa and white bean chili,nyt,produce,red onion,1,items,NA
-dinner,harissa and white bean chili,nyt,produce,bell peppers,2,items,NA
-dinner,harissa and white bean chili,nyt,produce,jalapenos,2,items,NA
-dinner,harissa and white bean chili,nyt,east pantry,cherry tomatoes,300,g,NA
-dinner,harissa and white bean chili,nyt,east pantry,white beans,30,oz,NA
-dinner,harissa and white bean chili,nyt,produce,baby spinach,3,cups,NA
-dinner,harissa and white bean chili,nyt,produce,limes,2,items,NA
-dinner,harissa and white bean chili,nyt,produce,avocado,1,items,NA
-dinner,harissa and white bean chili,nyt,produce,cilantro,10,g,NA
-dinner,roasted white bean and tomato pasta,nyt,produce,shallot,1,item,NA
-dinner,roasted white bean and tomato pasta,nyt,produce,garlic,5,cloves,NA
-dinner,roasted white bean and tomato pasta,nyt,east pantry,cherry tomatoes,450,g,NA
-dinner,roasted white bean and tomato pasta,nyt,east pantry,pasta,450,g,orecchiette
-dinner,roasted white bean and tomato pasta,nyt,east pantry,white beans,15,oz,NA
-dessert,apple and olive oil cake with maple frosting,sweet 132,dairy,eggs,4,items,NA
-dessert,apple and olive oil cake with maple frosting,sweet 132,produce,lemons,1,items,NA
-dessert,apple and olive oil cake with maple frosting,sweet 132,west pantry,maple syrup,85,g,NA
-dessert,apple and olive oil cake with maple frosting,sweet 132,east pantry,golden raisins,100,g,NA
-dessert,apple and olive oil cake with maple frosting,sweet 132,dairy,unsalted butter,100,g,NA
-dessert,apple and olive oil cake with maple frosting,sweet 132,dairy,cream cheese,225,g,NA
-dessert,apple and olive oil cake with maple frosting,sweet 132,produce,tart apples,900,g,NA
-dessert,chocolate chip and pecan cookies,sweet 26,dairy,eggs,2,items,NA
-dessert,chocolate chip and pecan cookies,sweet 26,produce,pecans,120,g,NA
-dessert,chocolate chip and pecan cookies,sweet 26,dairy,unsalted butter,250,g,NA
-dessert,chocolate chip and pecan cookies,sweet 26,east pantry,chocolate chunks,260,g,NA
-dessert,mutabbaq,jerusalem 262,produce,lemons,1,items,NA
-dessert,mutabbaq,jerusalem 262,frozen,filo,14,sheets,NA
-dessert,mutabbaq,jerusalem 262,dairy,unsalted butter,130,g,NA
-dessert,mutabbaq,jerusalem 262,dairy,goat cheese,250,g,NA
-dessert,mutabbaq,jerusalem 262,dairy,ricotta,500,g,NA
-dessert,spice cake,sweet 186,dairy,eggs,3,items,NA
-dessert,spice cake,sweet 186,produce,orange,1,items,NA
-dessert,spice cake,sweet 186,dairy,sour cream,120,g,NA
-dessert,spice cake,sweet 186,dairy,unsalted butter,180,g,NA
-dessert,upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,dairy,eggs,3,items,NA
-dessert,upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,produce,lemons,4,items,NA
-dessert,upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,dairy,milk,60,ml,NA
-dessert,upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,dairy,creme fraiche,240,g,optional
-dessert,upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,west pantry,maple syrup,280,mL,NA
-dessert,upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,dairy,unsalted butter,340,g,NA
-dessert,vineyard cake,sweet 134,dairy,eggs,4,items,NA
-dessert,vineyard cake,sweet 134,produce,lemons,2,items,NA
-dessert,vineyard cake,sweet 134,produce,orange,1,items,NA
-dessert,vineyard cake,sweet 134,produce,grapes,200,g,NA
-dessert,vineyard cake,sweet 134,dairy,unsalted butter,240,g,NA
-dessert,vineyard cake,sweet 134,NA,muscat wine,450,ml,NA
+type,category,meal,source,section,ingredient,amount,units,notes
+basics,basics,basics,NA,dairy,bread,1,for the week,NA
+basics,basics,basics,NA,dairy,brie,1,for the week,NA
+basics,basics,basics,NA,dairy,eggs,12,for the week,NA
+basics,basics,basics,NA,dairy,oat milk,1,for the week,NA
+basics,basics,basics,NA,dairy,milk,1,for the week,NA
+basics,basics,basics,NA,dairy,cheddar,1,for the week,NA
+basics,basics,basics,NA,dairy,salted butter,1,for the week,NA
+basics,basics,basics,NA,dairy,unsalted butter,1,for the week,NA
+basics,basics,basics,NA,dairy,yogurt,2,for the week,NA
+basics,basics,basics,NA,produce,bananas,1,for the week,NA
+basics,basics,basics,NA,produce,frozen fruit,1,for the week,NA
+dinner,pasta,baked orzo puttanesca,otk 114,east pantry,capers,2,tbsp,NA
+dinner,pasta,baked orzo puttanesca,otk 114,produce,basil,5,g,NA
+dinner,pasta,baked orzo puttanesca,otk 114,produce,garlic,6,cloves,NA
+dinner,pasta,baked orzo puttanesca,otk 114,west pantry,preserved lemon,1,items,NA
+dinner,pasta,baked orzo puttanesca,otk 114,west pantry,anchovies,15,g,NA
+dinner,pasta,baked orzo puttanesca,otk 114,east pantry,tomato paste,15,g,NA
+dinner,pasta,baked orzo puttanesca,otk 114,east pantry,kalamata olives,70,g,NA
+dinner,pasta,baked orzo puttanesca,otk 114,produce,onions,150,g,1 medium
+dinner,pasta,baked orzo puttanesca,otk 114,east pantry,orzo,250,g,NA
+dinner,pasta,baked orzo puttanesca,otk 114,west pantry,artichoke hearts,280,g,NA
+dinner,pasta,baked orzo puttanesca,otk 114,east pantry,canned tomatoes,400,g,NA
+dinner,pasta,barley risotto with marinated feta,jerusalem 109,produce,celery,2,stalks,NA
+dinner,pasta,barley risotto with marinated feta,jerusalem 109,produce,lemons,1,items,NA
+dinner,pasta,barley risotto with marinated feta,jerusalem 109,produce,fresh oregano,3,sprigs,NA
+dinner,pasta,barley risotto with marinated feta,jerusalem 109,produce,garlic,4,cloves,NA
+dinner,pasta,barley risotto with marinated feta,jerusalem 109,produce,fresh thyme,5,g,NA
+dinner,pasta,barley risotto with marinated feta,jerusalem 109,produce,shallots,2,items,NA
+dinner,pasta,barley risotto with marinated feta,jerusalem 109,dairy,unsalted butter,30,g,NA
+dinner,pasta,barley risotto with marinated feta,jerusalem 109,west pantry,pearl barley,200,g,NA
+dinner,pasta,barley risotto with marinated feta,jerusalem 109,dairy,feta,300,g,NA
+dinner,pasta,barley risotto with marinated feta,jerusalem 109,east pantry,passata,300,ml,NA
+dinner,pasta,barley risotto with marinated feta,jerusalem 109,east pantry,canned tomatoes,400,g,NA
+dinner,bean and lentil dishes,"bkeila, potato, and butter bean stew",flavor 75,produce,jalapenos,1,items,NA
+dinner,bean and lentil dishes,"bkeila, potato, and butter bean stew",flavor 75,produce,lemons,2,items,NA
+dinner,bean and lentil dishes,"bkeila, potato, and butter bean stew",flavor 75,produce,garlic,5,cloves,NA
+dinner,bean and lentil dishes,"bkeila, potato, and butter bean stew",flavor 75,produce,parsley,30,g,NA
+dinner,bean and lentil dishes,"bkeila, potato, and butter bean stew",flavor 75,produce,cilantro,100,g,NA
+dinner,bean and lentil dishes,"bkeila, potato, and butter bean stew",flavor 75,produce,onions,150,g,1 medium
+dinner,bean and lentil dishes,"bkeila, potato, and butter bean stew",flavor 75,produce,potatoes,500,g,NA
+dinner,bean and lentil dishes,"bkeila, potato, and butter bean stew",flavor 75,produce,spinach,600,g,NA
+dinner,bean and lentil dishes,"bkeila, potato, and butter bean stew",flavor 75,east pantry,butter beans canned,700,g,NA
+dinner,other meals,braised eggs with leek and zaatar,simple 6,dairy,eggs,6,items,NA
+dinner,other meals,braised eggs with leek and zaatar,simple 6,west pantry,preserved lemon,0.5,items,NA
+dinner,other meals,braised eggs with leek and zaatar,simple 6,dairy,unsalted butter,40,g,NA
+dinner,other meals,braised eggs with leek and zaatar,simple 6,dairy,feta,90,g,NA
+dinner,other meals,braised eggs with leek and zaatar,simple 6,produce,baby spinach,200,g,NA
+dinner,other meals,braised eggs with leek and zaatar,simple 6,produce,leeks,530,g,4 normal
+dinner,veg with grains,bulgur with mushrooms and feta,simple 164,produce,fresh thyme,5,g,NA
+dinner,veg with grains,bulgur with mushrooms and feta,simple 164,produce,dill,10,g,NA
+dinner,veg with grains,bulgur with mushrooms and feta,simple 164,dairy,feta,60,g,NA
+dinner,veg with grains,bulgur with mushrooms and feta,simple 164,west pantry,bulgur,150,g,NA
+dinner,veg with grains,bulgur with mushrooms and feta,simple 164,produce,onions,170,g,1 large
+dinner,veg with grains,bulgur with mushrooms and feta,simple 164,produce,mixed mushrooms,500,g,NA
+dinner,veg with grains,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,produce,garlic,3,cloves,NA
+dinner,veg with grains,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,west pantry,preserved lemon,1,items,NA
+dinner,veg with grains,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,produce,mint,10,g,NA
+dinner,veg with grains,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,dairy,yogurt,200,g,NA
+dinner,veg with grains,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,west pantry,bulgur,250,g,NA
+dinner,veg with grains,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,produce,onions,320,g,2 medium
+dinner,veg with grains,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,east pantry,cherry tomatoes,400,g,NA
+dinner,veg with grains,"bulgur with tomato, eggplant, and lemon yogurt",simple 162,produce,eggplants,500,g,2 small
+dinner,veg with grains,chermoula eggplant with bulgur and yogurt,jerusalem 59,produce,lemons,0.5,items,NA
+dinner,veg with grains,chermoula eggplant with bulgur and yogurt,jerusalem 59,produce,garlic,2,cloves,NA
+dinner,veg with grains,chermoula eggplant with bulgur and yogurt,jerusalem 59,west pantry,preserved lemon,1,items,NA
+dinner,veg with grains,chermoula eggplant with bulgur and yogurt,jerusalem 59,produce,cilantro,10,g,NA
+dinner,veg with grains,chermoula eggplant with bulgur and yogurt,jerusalem 59,produce,mint,10,g,NA
+dinner,veg with grains,chermoula eggplant with bulgur and yogurt,jerusalem 59,produce,sliced almonds,30,g,NA
+dinner,veg with grains,chermoula eggplant with bulgur and yogurt,jerusalem 59,east pantry,golden raisins,50,g,NA
+dinner,veg with grains,chermoula eggplant with bulgur and yogurt,jerusalem 59,east pantry,pitted green olives,50,g,NA
+dinner,veg with grains,chermoula eggplant with bulgur and yogurt,jerusalem 59,dairy,greek yogurt,120,g,NA
+dinner,veg with grains,chermoula eggplant with bulgur and yogurt,jerusalem 59,west pantry,bulgur,150,g,NA
+dinner,veg with grains,chermoula eggplant with bulgur and yogurt,jerusalem 59,produce,eggplants,600,g,2 medium
+dinner,bean and lentil dishes,chickpeas cacio e pepe,otk 120,produce,jalapenos,1,items,NA
+dinner,bean and lentil dishes,chickpeas cacio e pepe,otk 120,produce,garlic,8,cloves,NA
+dinner,bean and lentil dishes,chickpeas cacio e pepe,otk 120,produce,parsley,15,g,NA
+dinner,bean and lentil dishes,chickpeas cacio e pepe,otk 120,dairy,unsalted butter,100,g,NA
+dinner,bean and lentil dishes,chickpeas cacio e pepe,otk 120,produce,baby spinach,250,g,NA
+dinner,bean and lentil dishes,chickpeas cacio e pepe,otk 120,west pantry,dried chickpeas,300,g,NA
+dinner,pasta,"conchigle with yogurt, peas, and chile",jerusalem 111,produce,garlic,4,cloves,NA
+dinner,pasta,"conchigle with yogurt, peas, and chile",jerusalem 111,produce,basil,40,g,NA
+dinner,pasta,"conchigle with yogurt, peas, and chile",jerusalem 111,produce,pine nuts,60,g,NA
+dinner,pasta,"conchigle with yogurt, peas, and chile",jerusalem 111,dairy,feta,240,g,NA
+dinner,pasta,"conchigle with yogurt, peas, and chile",jerusalem 111,dairy,greek yogurt,500,g,NA
+dinner,pasta,"conchigle with yogurt, peas, and chile",jerusalem 111,east pantry,pasta,500,g,conchigle
+dinner,pasta,"conchigle with yogurt, peas, and chile",jerusalem 111,produce,peas (fresh or frozen),500,g,NA
+dinner,bean and lentil dishes,confit tandoori chickpeas,otk 105,produce,jalapenos,1,items,NA
+dinner,bean and lentil dishes,confit tandoori chickpeas,otk 105,produce,limes,2,items,NA
+dinner,bean and lentil dishes,confit tandoori chickpeas,otk 105,produce,ginger,5,tbsp,NA
+dinner,bean and lentil dishes,confit tandoori chickpeas,otk 105,produce,garlic,11,cloves,NA
+dinner,bean and lentil dishes,confit tandoori chickpeas,otk 105,produce,mint,15,g,NA
+dinner,bean and lentil dishes,confit tandoori chickpeas,otk 105,east pantry,tomato paste,15,g,NA
+dinner,bean and lentil dishes,confit tandoori chickpeas,otk 105,produce,cilantro,30,g,NA
+dinner,bean and lentil dishes,confit tandoori chickpeas,otk 105,dairy,greek yogurt,180,g,NA
+dinner,bean and lentil dishes,confit tandoori chickpeas,otk 105,east pantry,cherry tomatoes,400,g,NA
+dinner,bean and lentil dishes,confit tandoori chickpeas,otk 105,east pantry,canned chickpeas,800,g,NA
+dinner,pasta,cream of tomato soup with buttery onions and orecciette,otk 169,produce,garlic,2,cloves,NA
+dinner,pasta,cream of tomato soup with buttery onions and orecciette,otk 169,produce,basil,10,g,NA
+dinner,pasta,cream of tomato soup with buttery onions and orecciette,otk 169,dairy,cream,30,ml,NA
+dinner,pasta,cream of tomato soup with buttery onions and orecciette,otk 169,east pantry,tomato paste,55,g,NA
+dinner,pasta,cream of tomato soup with buttery onions and orecciette,otk 169,dairy,unsalted butter,60,g,NA
+dinner,pasta,cream of tomato soup with buttery onions and orecciette,otk 169,east pantry,pasta,200,g,orecchiette
+dinner,pasta,cream of tomato soup with buttery onions and orecciette,otk 169,produce,onions,540,g,4 medium
+dinner,pasta,cream of tomato soup with buttery onions and orecciette,otk 169,east pantry,canned tomatoes,800,g,NA
+dinner,other meals,fish and oven fries with feta,simple 138,produce,potatoes,2000,g,NA
+dinner,other meals,fish and oven fries with feta,simple 138,dairy,feta,150,g,
+dinner,other meals,fish and oven fries with feta,simple 138,produce,garlic,6,cloves,
+dinner,other meals,fish and oven fries with feta,simple 138,NA,fish,1,filet,NA
+dinner,pasta,gigli with chickpeas and zaatar,simple 191,produce,lemons,1,items,NA
+dinner,pasta,gigli with chickpeas and zaatar,simple 191,produce,garlic,2,cloves,NA
+dinner,pasta,gigli with chickpeas and zaatar,simple 191,produce,fresh thyme,10,g,NA
+dinner,pasta,gigli with chickpeas and zaatar,simple 191,produce,parsley,15,g,NA
+dinner,pasta,gigli with chickpeas and zaatar,simple 191,west pantry,anchovies,25,g,NA
+dinner,pasta,gigli with chickpeas and zaatar,simple 191,produce,baby spinach,50,g,NA
+dinner,pasta,gigli with chickpeas and zaatar,simple 191,produce,onions,100,g,1 small
+dinner,pasta,gigli with chickpeas and zaatar,simple 191,east pantry,pasta,200,g,gigli
+dinner,pasta,gigli with chickpeas and zaatar,simple 191,east pantry,canned chickpeas,880,g,NA
+dinner,other meals,green onion and ginger noodles,east 90,produce,green onions,14,items,NA
+dinner,other meals,green onion and ginger noodles,east 90,produce,ginger,2,tbsp,NA
+dinner,other meals,green onion and ginger noodles,east 90,west pantry,flat wheat noodles,400,g,NA
+dinner,served with rice,kimchi stew,fridge,NA,kimchi,1,L,NA
+dinner,served with rice,kimchi stew,fridge,produce,green onions,3,items,NA
+dinner,served with rice,kimchi stew,fridge,NA,soon tofu,1,package,NA
+dinner,served with rice,kimchi stew,fridge,produce,onions,150,g,1 medium
+dinner,served with rice,kimchi stew,fridge,produce,daikon,0.3,c,NA
+dinner,pasta,middle eastern mac and cheese,otk 140,dairy,unsalted butter,65,g,NA
+dinner,pasta,middle eastern mac and cheese,otk 140,dairy,cream,75,ml,NA
+dinner,pasta,middle eastern mac and cheese,otk 140,dairy,cheddar,150,g,NA
+dinner,pasta,middle eastern mac and cheese,otk 140,produce,onions,150,g,1 medium
+dinner,pasta,middle eastern mac and cheese,otk 140,dairy,feta,180,g,NA
+dinner,pasta,middle eastern mac and cheese,otk 140,east pantry,pasta,300,g,any kind
+dinner,pasta,middle eastern mac and cheese,otk 140,dairy,milk,650,ml,NA
+dinner,served with rice,mushroom mapo tofu,east 171,produce,ginger,1,tbsp,NA
+dinner,served with rice,mushroom mapo tofu,east 171,produce,green onions,1,items,NA
+dinner,served with rice,mushroom mapo tofu,east 171,produce,garlic,3,cloves,NA
+dinner,served with rice,mushroom mapo tofu,east 171,produce,shiitake mushrooms,225,g,NA
+dinner,served with rice,mushroom mapo tofu,east 171,dairy,firm tofu,400,g,NA
+dinner,served with rice,mushroom mapo tofu,east 171,produce,leeks,450,g,4 normal
+dinner,pasta,one pan orecchiette puttanesca,flavor 139,east pantry,capers,1,tbsp,NA
+dinner,pasta,one pan orecchiette puttanesca,flavor 139,produce,lemons,1,items,NA
+dinner,pasta,one pan orecchiette puttanesca,flavor 139,produce,garlic,6,cloves,NA
+dinner,pasta,one pan orecchiette puttanesca,flavor 139,east pantry,tomato paste,10,g,NA
+dinner,pasta,one pan orecchiette puttanesca,flavor 139,produce,parsley,40,g,NA
+dinner,pasta,one pan orecchiette puttanesca,flavor 139,east pantry,pitted green olives,125,g,NA
+dinner,pasta,one pan orecchiette puttanesca,flavor 139,east pantry,cherry tomatoes,250,g,NA
+dinner,pasta,one pan orecchiette puttanesca,flavor 139,east pantry,pasta,250,g,orecchiette
+dinner,pasta,one pan orecchiette puttanesca,flavor 139,east pantry,canned chickpeas,425,g,NA
+dinner,veg with grains,oyster mushrooms,flavor 238,produce,garlic,2,cloves,NA
+dinner,veg with grains,oyster mushrooms,flavor 238,dairy,unsalted butter,60,g,NA
+dinner,veg with grains,oyster mushrooms,flavor 238,east pantry,semolina or polenta,100,g,NA
+dinner,veg with grains,oyster mushrooms,flavor 238,dairy,milk,500,ml,NA
+dinner,veg with grains,oyster mushrooms,flavor 238,produce,oyster mushrooms,680,g,NA
+dinner,pasta,pasta alla norma,simple 184,produce,fresh oregano,5,sprigs,NA
+dinner,pasta,pasta alla norma,simple 184,produce,garlic,5,cloves,NA
+dinner,pasta,pasta alla norma,simple 184,produce,basil,20,g,NA
+dinner,pasta,pasta alla norma,simple 184,dairy,pecorino romano,45,g,NA
+dinner,pasta,pasta alla norma,simple 184,east pantry,pasta,300,g,any kind
+dinner,pasta,pasta alla norma,simple 184,east pantry,canned tomatoes,800,g,NA
+dinner,pasta,pasta alla norma,simple 184,produce,eggplants,900,g,3 medium
+dinner,bean and lentil dishes,puy lentil and eggplant stew,simple 159,produce,fresh oregano,1,sprigs,NA
+dinner,bean and lentil dishes,puy lentil and eggplant stew,simple 159,produce,garlic,3,cloves,NA
+dinner,bean and lentil dishes,puy lentil and eggplant stew,simple 159,produce,fresh thyme,5,g,NA
+dinner,bean and lentil dishes,puy lentil and eggplant stew,simple 159,NA,dry white wine,80,ml,NA
+dinner,bean and lentil dishes,puy lentil and eggplant stew,simple 159,dairy,creme fraiche,100,g,NA
+dinner,bean and lentil dishes,puy lentil and eggplant stew,simple 159,produce,red onion,160,g,1 medium
+dinner,bean and lentil dishes,puy lentil and eggplant stew,simple 159,west pantry,puy lentils,180,g,NA
+dinner,bean and lentil dishes,puy lentil and eggplant stew,simple 159,east pantry,cherry tomatoes,200,g,NA
+dinner,bean and lentil dishes,puy lentil and eggplant stew,simple 159,produce,eggplants,420,g,2 small
+dinner,bean and lentil dishes,rajma chawal,vij's 114,produce,ginger,2,tbsp,NA
+dinner,bean and lentil dishes,rajma chawal,vij's 114,produce,garlic,6,cloves,NA
+dinner,bean and lentil dishes,rajma chawal,vij's 114,east pantry,kidney beans,42,oz,NA
+dinner,bean and lentil dishes,rajma chawal,vij's 114,dairy,yogurt,125,g,NA
+dinner,bean and lentil dishes,rajma chawal,vij's 114,produce,onions,170,g,1 large
+dinner,bean and lentil dishes,rajma chawal,vij's 114,west pantry,basmati rice,400,g,NA
+dinner,bean and lentil dishes,rajma chawal,vij's 114,east pantry,canned tomatoes,400,g,NA
+dinner,bean and lentil dishes,roasted butternut squash with lentils and dolcelatte,simple 119,produce,garlic,1,cloves,NA
+dinner,bean and lentil dishes,roasted butternut squash with lentils and dolcelatte,simple 119,produce,lemons,1,items,NA
+dinner,bean and lentil dishes,roasted butternut squash with lentils and dolcelatte,simple 119,produce,mint,5,g,NA
+dinner,bean and lentil dishes,roasted butternut squash with lentils and dolcelatte,simple 119,produce,parsley,5,g,NA
+dinner,bean and lentil dishes,roasted butternut squash with lentils and dolcelatte,simple 119,produce,sage,10,g,NA
+dinner,bean and lentil dishes,roasted butternut squash with lentils and dolcelatte,simple 119,produce,tarragon,10,g,NA
+dinner,bean and lentil dishes,roasted butternut squash with lentils and dolcelatte,simple 119,dairy,gorgonzola or dolcelatte,100,g,NA
+dinner,bean and lentil dishes,roasted butternut squash with lentils and dolcelatte,simple 119,west pantry,puy lentils,100,g,NA
+dinner,bean and lentil dishes,roasted butternut squash with lentils and dolcelatte,simple 119,produce,red onion,320,g,2 medium
+dinner,bean and lentil dishes,roasted butternut squash with lentils and dolcelatte,simple 119,produce,butternut or delicata squash,950,g,NA
+dinner,pasta,"spaghetti with swiss chard, pine nuts, raisins and chiles",six seasons 301,produce,swiss chard,1,bunch,NA
+dinner,pasta,"spaghetti with swiss chard, pine nuts, raisins and chiles",six seasons 301,produce,garlic,2,cloves,NA
+dinner,pasta,"spaghetti with swiss chard, pine nuts, raisins and chiles",six seasons 301,produce,pine nuts,60,g,NA
+dinner,pasta,"spaghetti with swiss chard, pine nuts, raisins and chiles",six seasons 301,dairy,unsalted butter,60,g,NA
+dinner,pasta,"spaghetti with swiss chard, pine nuts, raisins and chiles",six seasons 301,east pantry,golden raisins,75,g,NA
+dinner,pasta,"spaghetti with swiss chard, pine nuts, raisins and chiles",six seasons 301,east pantry,pasta,250,g,any kind
+dinner,pasta,udon noodles with red cabbage and cauliflower,east 88,produce,red cabbage,0.5,head,NA
+dinner,pasta,udon noodles with red cabbage and cauliflower,east 88,produce,green onions,8,items,NA
+dinner,pasta,udon noodles with red cabbage and cauliflower,east 88,produce,garlic,2,cloves,NA
+dinner,pasta,udon noodles with red cabbage and cauliflower,east 88,produce,limes,2,items,NA
+dinner,pasta,udon noodles with red cabbage and cauliflower,east 88,produce,cauliflower,450,g,0.5 head
+dinner,pasta,udon noodles with red cabbage and cauliflower,east 88,west pantry,udon noodles--ready to fry,600,g,NA
+dinner,pasta,zaatar cacio e pepe,flavor 104,dairy,pecorino romano,30,g,NA
+dinner,pasta,zaatar cacio e pepe,flavor 104,dairy,unsalted butter,50,g,NA
+dinner,pasta,zaatar cacio e pepe,flavor 104,east pantry,bucatini,400,g,NA
+dinner,other meals,zucchini and ciabatta frittata,simple 9,dairy,eggs,6,items,NA
+dinner,other meals,zucchini and ciabatta frittata,simple 9,produce,garlic,2,cloves,NA
+dinner,other meals,zucchini and ciabatta frittata,simple 9,produce,basil,25,g,NA
+dinner,other meals,zucchini and ciabatta frittata,simple 9,dairy,cream,200,ml,NA
+dinner,other meals,zucchini and ciabatta frittata,simple 9,dairy,milk,200,ml,NA
+dinner,other meals,zucchini and ciabatta frittata,simple 9,produce,zucchini,430,g,2 medium
+dinner,other meals,zucchini and ciabatta frittata,simple 9,east pantry,ciabatta,500,g,NA
+dinner,bean and lentil dishes,harissa and white bean chili,nyt,produce,red onion,1,items,NA
+dinner,bean and lentil dishes,harissa and white bean chili,nyt,produce,bell peppers,2,items,NA
+dinner,bean and lentil dishes,harissa and white bean chili,nyt,produce,jalapenos,2,items,NA
+dinner,bean and lentil dishes,harissa and white bean chili,nyt,east pantry,cherry tomatoes,300,g,NA
+dinner,bean and lentil dishes,harissa and white bean chili,nyt,east pantry,white beans,30,oz,NA
+dinner,bean and lentil dishes,harissa and white bean chili,nyt,produce,baby spinach,3,cups,NA
+dinner,bean and lentil dishes,harissa and white bean chili,nyt,produce,limes,2,items,NA
+dinner,bean and lentil dishes,harissa and white bean chili,nyt,produce,avocado,1,items,NA
+dinner,bean and lentil dishes,harissa and white bean chili,nyt,produce,cilantro,10,g,NA
+dinner,pasta,roasted white bean and tomato pasta,nyt,produce,shallot,1,item,NA
+dinner,pasta,roasted white bean and tomato pasta,nyt,produce,garlic,5,cloves,NA
+dinner,pasta,roasted white bean and tomato pasta,nyt,east pantry,cherry tomatoes,450,g,NA
+dinner,pasta,roasted white bean and tomato pasta,nyt,east pantry,pasta,450,g,orecchiette
+dinner,pasta,roasted white bean and tomato pasta,nyt,east pantry,white beans,15,oz,NA
+dessert,dessert,apple and olive oil cake with maple frosting,sweet 132,dairy,eggs,4,items,NA
+dessert,dessert,apple and olive oil cake with maple frosting,sweet 132,produce,lemons,1,items,NA
+dessert,dessert,apple and olive oil cake with maple frosting,sweet 132,west pantry,maple syrup,85,g,NA
+dessert,dessert,apple and olive oil cake with maple frosting,sweet 132,east pantry,golden raisins,100,g,NA
+dessert,dessert,apple and olive oil cake with maple frosting,sweet 132,dairy,unsalted butter,100,g,NA
+dessert,dessert,apple and olive oil cake with maple frosting,sweet 132,dairy,cream cheese,225,g,NA
+dessert,dessert,apple and olive oil cake with maple frosting,sweet 132,produce,tart apples,900,g,NA
+dessert,dessert,chocolate chip and pecan cookies,sweet 26,dairy,eggs,2,items,NA
+dessert,dessert,chocolate chip and pecan cookies,sweet 26,produce,pecans,120,g,NA
+dessert,dessert,chocolate chip and pecan cookies,sweet 26,dairy,unsalted butter,250,g,NA
+dessert,dessert,chocolate chip and pecan cookies,sweet 26,east pantry,chocolate chunks,260,g,NA
+dessert,dessert,mutabbaq,jerusalem 262,produce,lemons,1,items,NA
+dessert,dessert,mutabbaq,jerusalem 262,frozen,filo,14,sheets,NA
+dessert,dessert,mutabbaq,jerusalem 262,dairy,unsalted butter,130,g,NA
+dessert,dessert,mutabbaq,jerusalem 262,dairy,goat cheese,250,g,NA
+dessert,dessert,mutabbaq,jerusalem 262,dairy,ricotta,500,g,NA
+dessert,dessert,spice cake,sweet 186,dairy,eggs,3,items,NA
+dessert,dessert,spice cake,sweet 186,produce,orange,1,items,NA
+dessert,dessert,spice cake,sweet 186,dairy,sour cream,120,g,NA
+dessert,dessert,spice cake,sweet 186,dairy,unsalted butter,180,g,NA
+dessert,dessert,upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,dairy,eggs,3,items,NA
+dessert,dessert,upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,produce,lemons,4,items,NA
+dessert,dessert,upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,dairy,milk,60,ml,NA
+dessert,dessert,upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,dairy,creme fraiche,240,g,optional
+dessert,dessert,upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,west pantry,maple syrup,280,ml,NA
+dessert,dessert,upside-down lemon maple and vanilla cake with lemon-maple butter,otk 218,dairy,unsalted butter,340,g,NA
+dessert,dessert,vineyard cake,sweet 134,dairy,eggs,4,items,NA
+dessert,dessert,vineyard cake,sweet 134,produce,lemons,2,items,NA
+dessert,dessert,vineyard cake,sweet 134,produce,orange,1,items,NA
+dessert,dessert,vineyard cake,sweet 134,produce,grapes,200,g,NA
+dessert,dessert,vineyard cake,sweet 134,dairy,unsalted butter,240,g,NA
+dessert,dessert,vineyard cake,sweet 134,NA,muscat wine,450,ml,NA
+dinner,veg with grains,"spiced semolina with corn, peanuts, and cilantro",otk 59,produce,corn kernels,350,g,NA
+dinner,veg with grains,"spiced semolina with corn, peanuts, and cilantro",otk 59,produce,serrano chile,1,items,NA
+dinner,veg with grains,"spiced semolina with corn, peanuts, and cilantro",otk 59,produce,peanuts,60,g,NA
+dinner,veg with grains,"spiced semolina with corn, peanuts, and cilantro",otk 59,produce,limes,2,items,NA
+dinner,veg with grains,"spiced semolina with corn, peanuts, and cilantro",otk 59,produce,ginger,20,g,NA
+dinner,veg with grains,"spiced semolina with corn, peanuts, and cilantro",otk 59,produce,garlic,2,cloves,NA
+dinner,veg with grains,"spiced semolina with corn, peanuts, and cilantro",otk 59,west pantry,coconut milk,200,ml,NA
+dinner,veg with grains,"spiced semolina with corn, peanuts, and cilantro",otk 59,west pantry,semolina coarse,75,g,NA
+dinner,veg with grains,"spiced semolina with corn, peanuts, and cilantro",otk 59,produce,cilantro,5,g,NA
+dinner,light veg dishes,roasted pepper salad with cucumber and herbs,otk 76,produce,green bell peppers,4,items,
+dinner,light veg dishes,roasted pepper salad with cucumber and herbs,otk 76,produce,red bell peppers,2,items,
+dinner,light veg dishes,roasted pepper salad with cucumber and herbs,otk 76,produce,tomatoes,400,g,
+dinner,light veg dishes,roasted pepper salad with cucumber and herbs,otk 76,produce,red onions,200,g,
+dinner,light veg dishes,roasted pepper salad with cucumber and herbs,otk 76,produce,serrano chile,1,item,
+dinner,light veg dishes,roasted pepper salad with cucumber and herbs,otk 76,produce,garlic,6,cloves,
+dinner,light veg dishes,roasted pepper salad with cucumber and herbs,otk 76,produce,lemon,1,item,
+dinner,light veg dishes,roasted pepper salad with cucumber and herbs,otk 76,produce,parsley,10,g,
+dinner,light veg dishes,roasted pepper salad with cucumber and herbs,otk 76,produce,cilantro,10,g,
+dinner,light veg dishes,roasted pepper salad with cucumber and herbs,otk 76,produce,cucumber,330,g,
+dinner,light veg dishes,summer zucchini with tomatoes and ricotta,otk 81,produce,garlic,6,cloves,
+dinner,light veg dishes,summer zucchini with tomatoes and ricotta,otk 81,produce,zucchini,750,g,
+dinner,light veg dishes,summer zucchini with tomatoes and ricotta,otk 81,produce,oregano,5,g,
+dinner,light veg dishes,summer zucchini with tomatoes and ricotta,otk 81,produce,lemon,1,item,
+dinner,light veg dishes,summer zucchini with tomatoes and ricotta,otk 81,produce,basil,10,g,
+dinner,light veg dishes,summer zucchini with tomatoes and ricotta,otk 81,produce,ricotta,120,g,
+dinner,light veg dishes,summer zucchini with tomatoes and ricotta,otk 81,produce,tomatoes,400,g,
+dinner,served with rice,coconut rice with eggplant and pickled cucumber,east 135,produce,cucumber,200,g,
+dinner,served with rice,coconut rice with eggplant and pickled cucumber,east 135,produce,lemon,1,item,
+dinner,served with rice,coconut rice with eggplant and pickled cucumber,east 135,west pantry,coconut milk,420,ml,
+dinner,served with rice,coconut rice with eggplant and pickled cucumber,east 135,produce,red onion,1,item,
+dinner,served with rice,coconut rice with eggplant and pickled cucumber,east 135,produce,garlic,3,cloves,
+dinner,served with rice,coconut rice with eggplant and pickled cucumber,east 135,produce,eggplants,2,items,
+dinner,light veg dishes,beefsteak tomato carpaccio,simple 29,produce,ginger,1,tbsp,
+dinner,light veg dishes,beefsteak tomato carpaccio,simple 29,produce,green onions,4,items,
+dinner,light veg dishes,beefsteak tomato carpaccio,simple 29,produce,tomatoes,400,g,
+dinner,light veg dishes,beefsteak tomato carpaccio,simple 29,produce,green chile,0.25,items,
+dinner,light veg dishes,beefsteak tomato carpaccio,simple 29,produce,cilantro,5,g,
+dinner,light veg dishes,tomato and bread salad with anchovies,simple 33,produce,garlic,4,cloves,
+dinner,light veg dishes,tomato and bread salad with anchovies,simple 33,west pantry,anchovies,6,items,
+dinner,light veg dishes,tomato and bread salad with anchovies,simple 33,dairy,crusty bread,100,g,
+dinner,light veg dishes,tomato and bread salad with anchovies,simple 33,produce,tomatoes,500,g,
+dinner,light veg dishes,tomato and bread salad with anchovies,simple 33,produce,lemon,1,item,
+dinner,light veg dishes,tomato and bread salad with anchovies,simple 33,east pantry,capers,1,tbsp,
+dinner,light veg dishes,tomato and bread salad with anchovies,simple 33,produce,parsley,5,g,
+dinner,light veg dishes,tomato and bread salad with anchovies,simple 33,produce,basil,5,g,
+dinner,light veg dishes,burrata with grilled grapes and basil,simple 43,produce,grapes,320,g,
+dinner,light veg dishes,burrata with grilled grapes and basil,simple 43,produce,garlic,1,cloves,
+dinner,light veg dishes,burrata with grilled grapes and basil,simple 43,dairy,burrata,600,g,
+dinner,light veg dishes,burrata with grilled grapes and basil,simple 43,produce,basil,5,g,
+dinner,veg with grains,herby zucchini and peas with semolina porridge,simple 63,produce,garlic,5,cloves,
+dinner,veg with grains,herby zucchini and peas with semolina porridge,simple 63,produce,zucchini,1.2,kg,
+dinner,veg with grains,herby zucchini and peas with semolina porridge,simple 63,produce,peas,200,g,
+dinner,veg with grains,herby zucchini and peas with semolina porridge,simple 63,produce,basil,25,g,
+dinner,veg with grains,herby zucchini and peas with semolina porridge,simple 63,produce,tarragon,15,g,
+dinner,veg with grains,herby zucchini and peas with semolina porridge,simple 63,produce,lemons,1,item,
+dinner,veg with grains,herby zucchini and peas with semolina porridge,simple 63,produce,pine nuts,50,g,
+dinner,veg with grains,herby zucchini and peas with semolina porridge,simple 63,dairy,unsalted butter,50,g,
+dinner,veg with grains,herby zucchini and peas with semolina porridge,simple 63,dairy,milk,600,ml,
+dinner,veg with grains,herby zucchini and peas with semolina porridge,simple 63,west pantry,semolina,180,g,
+dinner,veg with grains,herby zucchini and peas with semolina porridge,simple 63,dairy,pecorino,100,g,
+dinner,light veg dishes,hot charred cheery tomatoes with cold yogurt,simple 70,produce,cherry tomatoes,350,g,
+dinner,light veg dishes,hot charred cheery tomatoes with cold yogurt,simple 70,produce,garlic,3,cloves,
+dinner,light veg dishes,hot charred cheery tomatoes with cold yogurt,simple 70,produce,thyme,3,sprigs,
+dinner,light veg dishes,hot charred cheery tomatoes with cold yogurt,simple 70,produce,oregano,6,sprigs,
+dinner,light veg dishes,hot charred cheery tomatoes with cold yogurt,simple 70,produce,lemon,1,item,
+dinner,light veg dishes,hot charred cheery tomatoes with cold yogurt,simple 70,dairy,greek yogurt,350,g,
+dinner,light veg dishes,"tomato, chard, and spinach with toasted almonds",simple 72,produce,sliced almonds,50,g,
+dinner,light veg dishes,"tomato, chard, and spinach with toasted almonds",simple 72,produce,garlic,2,cloves,
+dinner,light veg dishes,"tomato, chard, and spinach with toasted almonds",simple 72,produce,canned tomatoes,800,g,
+dinner,light veg dishes,"tomato, chard, and spinach with toasted almonds",simple 72,produce,chard,500,g,
+dinner,light veg dishes,"tomato, chard, and spinach with toasted almonds",simple 72,produce,spinach,130,g,
+dinner,light veg dishes,"tomato, chard, and spinach with toasted almonds",simple 72,produce,limes,2,items,
+dinner,light veg dishes,"tomato, chard, and spinach with toasted almonds",simple 72,produce,mint,35,g,
+dinner,light veg dishes,"tomato, chard, and spinach with toasted almonds",simple 72,produce,dill,35,g,
+dinner,light veg dishes,"tomato, chard, and spinach with toasted almonds",simple 72,produce,green onions,8,items,
+dinner,served with rice,baked mint rice with pomegranate and olive salsa,simple 171,dairy,unsalted butter,50,g,
+dinner,served with rice,baked mint rice with pomegranate and olive salsa,simple 171,produce,mint,40,g,
+dinner,served with rice,baked mint rice with pomegranate and olive salsa,simple 171,east pantry,green olives,40,g,
+dinner,served with rice,baked mint rice with pomegranate and olive salsa,simple 171,produce,pomegranate seeds,90,g,
+dinner,served with rice,baked mint rice with pomegranate and olive salsa,simple 171,produce,walnut pieces,50,g,
+dinner,served with rice,baked mint rice with pomegranate and olive salsa,simple 171,produce,garlic,1,cloves,
+dinner,served with rice,baked mint rice with pomegranate and olive salsa,simple 171,produce,mint,10,g,
+dinner,served with rice,baked mint rice with pomegranate and olive salsa,simple 171,dairy,feta,150,g,
+dinner,served with rice,baked rice with confit tomatoes and garlic,simple 174,produce,cherry tomatoes,800,g,
+dinner,served with rice,baked rice with confit tomatoes and garlic,simple 174,produce,garlic,12,cloves,
+dinner,served with rice,baked rice with confit tomatoes and garlic,simple 174,produce,shallots,220,g,
+dinner,served with rice,baked rice with confit tomatoes and garlic,simple 174,produce,cilantro,35,g,
+dinner,served with rice,baked rice with confit tomatoes and garlic,simple 174,produce,thyme,3,tbsp,
+dinner,noodles,soba noodles with lime cardamom and avocado,simple 181,west pantry,soba noodles,200,g,
+dinner,noodles,soba noodles with lime cardamom and avocado,simple 181,produce,basil,30,g,
+dinner,noodles,soba noodles with lime cardamom and avocado,simple 181,produce,cilantro,30,g,
+dinner,noodles,soba noodles with lime cardamom and avocado,simple 181,produce,pistachios,70,g,
+dinner,noodles,soba noodles with lime cardamom and avocado,simple 181,produce,limes,3,items,
+dinner,noodles,soba noodles with lime cardamom and avocado,simple 181,produce,green chile,1,item,
+dinner,noodles,soba noodles with lime cardamom and avocado,simple 181,produce,avocados,2,items,
+dinner,noodles,pasta with pecorino and pistachios,simple 194,produce,basil,50,g,
+dinner,noodles,pasta with pecorino and pistachios,simple 194,produce,garlic,1,cloves,
+dinner,noodles,pasta with pecorino and pistachios,simple 194,produce,anchovies,3,items,
+dinner,noodles,pasta with pecorino and pistachios,simple 194,produce,fusilli,200,g,
+dinner,noodles,pasta with pecorino and pistachios,simple 194,produce,snow peas,130,g,
+dinner,noodles,pasta with pecorino and pistachios,simple 194,produce,pecorino,75,g,
+dinner,noodles,pasta with pecorino and pistachios,simple 194,produce,pistachios,75,g,
+dinner,noodles,pasta with pecorino and pistachios,simple 194,produce,lemon,1,items,
+dinner,other,gnocchi alla romana,simple 198,dairy,unsalted butter,80,g,
+dinner,other,gnocchi alla romana,simple 198,dairy,milk,1000,mL,
+dinner,other,gnocchi alla romana,simple 198,west pantry,semolina,250,g,
+dinner,other,gnocchi alla romana,simple 198,dairy,parmesan,100,g,
+dinner,other,gnocchi alla romana,simple 198,dairy,eggs,2,items,
+dinner,other,gnocchi alla romana,simple 198,dairy,cheddar,40,g,
+dinner,light veg dishes,na'ama's fattoush,jerusalem 29,dairy,greek yogurt,200,g,
+dinner,light veg dishes,na'ama's fattoush,jerusalem 29,dairy,milk,200,g,
+dinner,light veg dishes,na'ama's fattoush,jerusalem 29,dairy,flatbread,250,g,
+dinner,light veg dishes,na'ama's fattoush,jerusalem 29,produce,tomatoes,380,g,
+dinner,light veg dishes,na'ama's fattoush,jerusalem 29,produce,radishes,100,g,
+dinner,light veg dishes,na'ama's fattoush,jerusalem 29,produce,cucumbers,250,g,
+dinner,light veg dishes,na'ama's fattoush,jerusalem 29,produce,green onions,2,items,
+dinner,light veg dishes,na'ama's fattoush,jerusalem 29,produce,mint,15,g,
+dinner,light veg dishes,na'ama's fattoush,jerusalem 29,produce,parsley,25,g,
+dinner,light veg dishes,na'ama's fattoush,jerusalem 29,produce,garlic,2,cloves,
+dinner,light veg dishes,na'ama's fattoush,jerusalem 29,produce,lemons,1,item,
+dinner,light veg dishes,spiced chickpeas and fresh vegetable salad,jerusalem 56,west pantry,dried chickpeas,100,g,
+dinner,light veg dishes,spiced chickpeas and fresh vegetable salad,jerusalem 56,produce,cucumbers,280,g,
+dinner,light veg dishes,spiced chickpeas and fresh vegetable salad,jerusalem 56,produce,tomatoes,300,g,
+dinner,light veg dishes,spiced chickpeas and fresh vegetable salad,jerusalem 56,produce,radishes,240,g,
+dinner,light veg dishes,spiced chickpeas and fresh vegetable salad,jerusalem 56,produce,red bell pepper,1,item,
+dinner,light veg dishes,spiced chickpeas and fresh vegetable salad,jerusalem 56,produce,red onion,150,g,
+dinner,light veg dishes,spiced chickpeas and fresh vegetable salad,jerusalem 56,produce,cilantro,20,g,
+dinner,light veg dishes,spiced chickpeas and fresh vegetable salad,jerusalem 56,produce,parsley,15,g,
+dinner,light veg dishes,spiced chickpeas and fresh vegetable salad,jerusalem 56,produce,lemon,1,item,
+dinner,light veg dishes,spiced chickpeas and fresh vegetable salad,jerusalem 56,produce,garlic,1,cloves,
+dinner,served with rice,sweet potato and broccolini bibimbap,east 148,produce,garlic,1,cloves,
+dinner,served with rice,sweet potato and broccolini bibimbap,east 148,produce,sweet potatoes,2,items,
+dinner,served with rice,sweet potato and broccolini bibimbap,east 148,produce,broccolini,300,g,
+dinner,served with rice,sweet potato and broccolini bibimbap,east 148,produce,eggs,4,items,
+dinner,served with rice,sweet potato and broccolini bibimbap,east 148,produce,avocados,2,items,
+dinner,light veg dish,corn and tomato salad with torn croutons,six seasons 225,produce,corn,3,items,
+dinner,light veg dish,corn and tomato salad with torn croutons,six seasons 225,produce,tomatoes,450,g,
+dinner,light veg dish,corn and tomato salad with torn croutons,six seasons 225,produce,green onions,3,items,
+dinner,light veg dish,corn and tomato salad with torn croutons,six seasons 225,dairy,crusty bread,200,g,
+dinner,light veg dish,corn and tomato salad with torn croutons,six seasons 225,produce,pistachios,150,g,
+dinner,light veg dish,corn and tomato salad with torn croutons,six seasons 225,dairy,pecorino romano,100,g,
+dinner,light veg dish,corn and tomato salad with torn croutons,six seasons 225,produce,basil,5,g,
+dinner,light veg dish,corn and tomato salad with torn croutons,six seasons 225,produce,mint,5,g,
+dinner,light veg dish,"tomatoes, yogurt sauce, and chickpeas",six seasons 266,produce,garlic,1,cloves,
+dinner,light veg dish,"tomatoes, yogurt sauce, and chickpeas",six seasons 266,produce,tomatoes,3 large or 6 small,items,
+dinner,light veg dish,"tomatoes, yogurt sauce, and chickpeas",six seasons 266,produce,yogurt,150,g,
+dinner,light veg dish,"tomatoes, yogurt sauce, and chickpeas",six seasons 266,produce,cucumber,1,item,
+dinner,light veg dish,"tomatoes, yogurt sauce, and chickpeas",six seasons 266,produce,basil,5,g,
+dinner,light veg dish,"tomatoes, yogurt sauce, and chickpeas",six seasons 266,produce,parsley,5,g,
+dinner,light veg dish,"tomatoes, yogurt sauce, and chickpeas",six seasons 266,produce,mint,5,g,
+dinner,light veg dish,"tomatoes, yogurt sauce, and chickpeas",six seasons 266,produce,chickpeas,1,cup,
+dinner,light veg dish,"tomatoes, yogurt sauce, and chickpeas",six seasons 266,produce,red onion,0.5,items,
+dinner,pasta,pasta carbonara with english peas,six seasons 87,east pantry,pasta,300,g,
+dinner,pasta,pasta carbonara with english peas,six seasons 87,produce,peas,1,cup,
+dinner,pasta,pasta carbonara with english peas,six seasons 87,produce,green onions,3,items,
+dinner,pasta,pasta carbonara with english peas,six seasons 87,dairy,eggs,1,items,
+dinner,light veg dishes,"tomato, melon, and chile bruschetta",tartine bread,produce,lemons,2,items,
+dinner,light veg dishes,"tomato, melon, and chile bruschetta",tartine bread,produce,tomatoes,450,g,
+dinner,light veg dishes,"tomato, melon, and chile bruschetta",tartine bread,produce,melon,450,g,
+dinner,light veg dishes,"tomato, melon, and chile bruschetta",tartine bread,produce,basil,5,g,
+dinner,light veg dishes,"tomato, melon, and chile bruschetta",tartine bread,produce,mint,5,g,
+dinner,light veg dishes,"tomato, melon, and chile bruschetta",tartine bread,dairy,crusty bread,6,slices,
+dinner,egg dishes,harissa and manchego omeletes,simple 7,produce,onion,250,g,
+dinner,egg dishes,harissa and manchego omeletes,simple 7,dairy,eggs,12,items,
+dinner,egg dishes,harissa and manchego omeletes,simple 7,dairy,milk,100,ml,
+dinner,egg dishes,harissa and manchego omeletes,simple 7,produce,cilantro,15,g,
+dinner,egg dishes,harissa and manchego omeletes,simple 7,dairy,manchego,110,g,
+dinner,egg dishes,harissa and manchego omeletes,simple 7,produce,limes,2,items,
+dinner,egg dishes,portobello mushroom with brioche and poached eggs,simple 10,produce,portobello mushrooms,400,g,
+dinner,egg dishes,portobello mushroom with brioche and poached eggs,simple 10,produce,garlic,2,cloves,
+dinner,egg dishes,portobello mushroom with brioche and poached eggs,simple 10,produce,basil,5,g,
+dinner,egg dishes,portobello mushroom with brioche and poached eggs,simple 10,dairy,brioche,200,g,
+dinner,egg dishes,portobello mushroom with brioche and poached eggs,simple 10,dairy,eggs,4,items,
+dinner,egg dishes,portobello mushroom with brioche and poached eggs,simple 10,dairy,sour cream,100,g,
+dinner,tofu dishes,scrambled harissa tofu,simple 13,produce,onions,300,g,
+dinner,tofu dishes,scrambled harissa tofu,simple 13,produce,cucumber,180,g,
+dinner,tofu dishes,scrambled harissa tofu,simple 13,produce,green chiles,2,items,
+dinner,tofu dishes,scrambled harissa tofu,simple 13,produce,avocados,400,g,
+dinner,tofu dishes,scrambled harissa tofu,simple 13,produce,cilantro,20,g,
+dinner,tofu dishes,scrambled harissa tofu,simple 13,produce,limes,1,items,
+dinner,tofu dishes,scrambled harissa tofu,simple 13,produce,silken tofu,700,g,
