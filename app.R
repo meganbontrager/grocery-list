@@ -53,7 +53,7 @@ ui <- fluidPage(
 server <- function(input, output, session) {
   groceries <- eventReactive(input$masterclass, {
     master_list %>% 
-      filter(meal %in% input$masterclass) %>% 
+      filter(meal %in% input$masterclass) %>%
       group_by(section, ingredient, units) %>% 
       summarize(total = sum(amount)) %>% 
       arrange(section, ingredient) %>% 
