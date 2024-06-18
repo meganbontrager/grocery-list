@@ -1,0 +1,32 @@
+---
+title: "Market list"
+date: "2024-06-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, echo=FALSE, message=FALSE}
+library(tidyverse)
+library(knitr)
+
+groceries = read_csv("master_list.csv") %>% 
+  filter(section == "produce") %>% 
+  filter(!ingredient %in% c("lemons", "onions", "garlic", "avocados", "bananas", 
+                            "fresh coconut", "frozen fruit", "ginger", "grapefruit", 
+                            "large green mango", "limes", "orange", "pine nuts",
+                            "pomegranate seeds", "red onions", "silken tofu", "firm tofu", 
+                            "soon tofu")) %>% 
+  mutate(ingred_amt = paste0(ingredient, " (", amount, " ", units,")")) %>% 
+  group_by(meal) %>% 
+  mutate(produce_list = paste0(ingred_amt, collapse = ", ")) %>% 
+  select(meal, produce_list) %>% 
+  distinct()
+  
+```
+
+```{r}
+kable(groceries)
+```
