@@ -21,7 +21,8 @@ master_list = read_csv("master_list.csv")
 
 # Create a small table of recipe names and sources
 recipe_names = master_list %>% 
-  distinct(meal, source)
+  distinct(meal, source) %>% 
+  arrange(meal)
 
 ui <- fluidPage(
   # App title
